@@ -24,7 +24,7 @@ window.onload = function() {
   var messages = [
     'Hey there 👋',
     'I\'m Anpu.',
-    'I design and code to do cool things.',
+    'I code to do cool things.',
     'If you want to know more about me.<br> You can visit my website at <a href="https://anpu.li">anpu.li</a>',
     '<a target="_blank" href="mailto:al4902@nyu.edu">al4902@nyu.edu</a><br><a target="_blank" href="https://github.com/ANPULI">github.com/ANPULI</a>',
     getCurrentTime(),
